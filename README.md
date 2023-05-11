@@ -1,10 +1,4 @@
-### hey there 
-<a href="https://www.instagram.com/s.j.x_x/">
-  <img align="left" alt="Jini's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://seungjin526.notion.site/Portfolio-6729917b78fe4e0786d0ced0bf2cedc1">
-  <img src="https://img.shields.io/badge/Notion-007396?style=flat&logo=Notion&logoColor=white" />
-</a>
+### hey there!!!
 
 <br />
 
@@ -13,6 +7,15 @@ my passion for software lies with dreaming up ideas and making them come true wi
 
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+<br />
+<a href="https://developerjini.com">
+  제 소개페이지입니다.
+</a>
+<!-- <a href="https://seungjin526.notion.site/Portfolio-6729917b78fe4e0786d0ced0bf2cedc1">
+  <img src="https://img.shields.io/badge/-007396?style=flat&logo=Notion&logoColor=white" />
+</a> -->
+</a>
+<br/>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:i5veagl@gmail.com) :)
@@ -30,26 +33,23 @@ I learned a lot from the open-source community and I love how collaboration and 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **Most Used Language**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-
-🚧 **my todoist stats:**
+<!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
+<!-- 🏆  7,995 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+⏳  Longest streak is 10 days -->
 <!-- TODO-IST:END -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerjini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-📈 my github stats
+📈 my github stats<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerjini)](https://github.com/anuraghazra/github-readme-stats)
 
 
