@@ -2,14 +2,14 @@
 
 <br />
 
-hi, i'm [Seungjin Kim](https://developerjini.com/), a passionate self-taught full stack web developer. 
-my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Seungjin Kim](https://developerjini.com/), a passionate self-taught full stack web developer. 
+My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <br />
 <a href="https://developerjini.com">
-  제 소개페이지입니다.
+  제 소개페이지입니다(Korean page)
 </a>
 <!-- <a href="https://seungjin526.notion.site/Portfolio-6729917b78fe4e0786d0ced0bf2cedc1">
   <img src="https://img.shields.io/badge/-007396?style=flat&logo=Notion&logoColor=white" />
