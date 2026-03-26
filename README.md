@@ -5,7 +5,7 @@
 
 <!-- Visitor Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=developerjini&style=for-the-badge&color=00FF41&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=developerjinny&style=for-the-badge&color=00FF41&labelColor=0D1117" />
 </div>
 
 <br/>
