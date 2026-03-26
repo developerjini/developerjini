@@ -8,11 +8,16 @@
   <img src="https://komarev.com/ghpvc/?username=developerjini&style=for-the-badge&color=00FF41&labelColor=0D1117" />
 </div>
 
+<br/>
+
+<!-- Language Guide -->
 <div align="center">
 
-**🇰🇷 한국어** &nbsp;|&nbsp; **🇺🇸 English**
+  🇰🇷 아래 탭을 클릭해 언어를 선택하세요 &nbsp;|&nbsp; 🇺🇸 Click a tab below to switch language
 
 </div>
+
+<br/>
 
 ---
 
@@ -21,7 +26,7 @@
 <!-- ============================== -->
 
 <details open>
-<summary><b>🇰🇷 한국어로 보기</b></summary>
+<summary><b>🇰🇷 한국어로 보기 ← 클릭해서 접기</b></summary>
 
 <br/>
 
@@ -92,7 +97,7 @@ $ cat about.txt
 <!-- ============================== -->
 
 <details>
-<summary><b>🇺🇸 View in English</b></summary>
+<summary><b>🇺🇸 View in English ← Click to expand</b></summary>
 
 <br/>
 
