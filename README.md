@@ -35,10 +35,10 @@
 ```bash
 $ cat about.txt
 
-  이름     : jini
+  이름     : 개발자지니
   역할     : 백엔드 개발자 & DevOps 엔지니어
   위치     : 대한민국 🇰🇷
-  관심사   : 확장 가능한 시스템 구축 & 자동화
+  관심사    : 확장 가능한 시스템 구축 & 자동화
   상태     : 항상 배우고, 항상 만드는 중 🚀
 ```
 
@@ -106,7 +106,7 @@ $ cat about.txt
 ```bash
 $ cat about.txt
 
-  Name     : jini
+  Name     : Developerjini
   Role     : Backend Developer & DevOps Engineer
   Location : South Korea 🇰🇷
   Focus    : Building scalable systems & automating everything
