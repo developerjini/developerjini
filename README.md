@@ -5,7 +5,25 @@
 
 <!-- Visitor Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=developerjinny&style=for-the-badge&color=00FF41&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=developerjini&style=for-the-badge&color=00FF41&labelColor=0D1117" />
+</div>
+
+<br/>
+
+<!-- Contact & Links -->
+<div align="center">
+  <a href="https://cloudjini.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white"/>
+  </a>
+  <a href="https://seungjin526.notion.site/Portfolio-6729917b78fe4e0786d0ced0bf2cedc1" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/developerjinny/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:i5veagl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 <br/>
@@ -35,10 +53,10 @@
 ```bash
 $ cat about.txt
 
-  이름     : 개발자지니
+  이름     : jini
   역할     : 백엔드 개발자 & DevOps 엔지니어
   위치     : 대한민국 🇰🇷
-  관심사    : 확장 가능한 시스템 구축 & 자동화
+  관심사   : 확장 가능한 시스템 구축 & 자동화
   상태     : 항상 배우고, 항상 만드는 중 🚀
 ```
 
@@ -70,6 +88,15 @@ $ cat about.txt
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
+
+<br/>
+
+## `$ cat recent_posts.md`
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> 🔄 최근 블로그 포스트가 자동으로 업데이트됩니다 → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
 
 <br/>
 
@@ -106,7 +133,7 @@ $ cat about.txt
 ```bash
 $ cat about.txt
 
-  Name     : Developerjini
+  Name     : jini
   Role     : Backend Developer & DevOps Engineer
   Location : South Korea 🇰🇷
   Focus    : Building scalable systems & automating everything
@@ -141,6 +168,15 @@ $ cat about.txt
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
+
+<br/>
+
+## `$ cat recent_posts.md`
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> 🔄 Recent blog posts are automatically updated → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
 
 <br/>
 
