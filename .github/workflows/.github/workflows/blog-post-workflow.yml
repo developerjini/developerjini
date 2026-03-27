@@ -1,0 +1,26 @@
+name: 📝 Update Blog Posts
+
+on:
+  schedule:
+    # 매일 오전 9시 (KST) = UTC 00:00 자동 실행
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 수동 실행도 가능
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Pull latest Tistory RSS feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://cloudjini.tistory.com/rss"
+          max_post_count: 5
+          readme_path: "./README.md"
+          comment_tag_name: "BLOG-POST-LIST"
+          template: "[$title]($url) — $date"
+          date_format: "yyyy-mm-dd"
