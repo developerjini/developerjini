@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,2,2,5,30&height=200&section=header&text=developerjini&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20DevOps%20%7C%20Cloud&descAlignY=58&descColor=39FF14" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,2,2,5,30&height=200&section=header&text=developerjinny&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20DevOps%20%7C%20Cloud&descAlignY=58&descColor=39FF14" />
 </div>
 
 <!-- Visitor Counter -->
