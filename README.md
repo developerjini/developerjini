@@ -5,7 +5,7 @@
 
 <!-- Visitor Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=developerjini&style=for-the-badge&color=00FF41&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=developerjinny&style=for-the-badge&color=00FF41&labelColor=0D1117" />
 </div>
 
 <br/>
@@ -53,7 +53,7 @@
 ```bash
 $ cat about.txt
 
-  이름     : jini
+  이름     : 개발자지니
   역할     : 백엔드 개발자 & DevOps 엔지니어
   위치     : 대한민국 🇰🇷
   관심사   : 확장 가능한 시스템 구축 & 자동화
@@ -108,14 +108,14 @@ $ cat about.txt
 ## `$ git stats`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerjini&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&border_color=00FF41&hide_border=false&count_private=true&locale=kr"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerjini&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&border_color=00FF41&hide_border=false&locale=kr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerjinny&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&border_color=00FF41&hide_border=false&count_private=true&locale=kr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerjinny&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&border_color=00FF41&hide_border=false&locale=kr"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=developerjini&theme=dark&background=0D1117&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=FFFFFF&border=00FF41&locale=ko"/>
+  <img src="https://streak-stats.demolab.com/?user=developerjinny&theme=dark&background=0D1117&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=FFFFFF&border=00FF41&locale=ko"/>
 </div>
 
 <br/>
@@ -138,7 +138,7 @@ $ cat about.txt
 ```bash
 $ cat about.txt
 
-  Name     : jini
+  Name     : Developterjinny
   Role     : Backend Developer & DevOps Engineer
   Location : South Korea 🇰🇷
   Focus    : Building scalable systems & automating everything
@@ -193,14 +193,14 @@ $ cat about.txt
 ## `$ git stats`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerjini&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&border_color=00FF41&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerjini&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&border_color=00FF41&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerjinny&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&border_color=00FF41&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerjinny&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&border_color=00FF41&hide_border=false"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=developerjini&theme=dark&background=0D1117&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=FFFFFF&border=00FF41"/>
+  <img src="https://streak-stats.demolab.com/?user=developerjinny&theme=dark&background=0D1117&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=FFFFFF&border=00FF41"/>
 </div>
 
 <br/>
