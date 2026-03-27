@@ -94,6 +94,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [[AI/LLM] 프롬프트 엔지니어링 완전 정복 - 구조화 프롬프트 &middot; 역할 부여 &middot; CoT 실전까지](https://cloudjini.tistory.com/entry/AILLM-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-%EA%B5%AC%EC%A1%B0%ED%99%94-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%C2%B7-%EC%97%AD%ED%95%A0-%EB%B6%80%EC%97%AC-%C2%B7-CoT-%EC%8B%A4%EC%A0%84%EA%B9%8C%EC%A7%80) — Thu, 26 Ma
+- [[AI/LLM] FAQ 챗봇 V2 완성 - FAISS 기반 RAG로 성능 업그레이드 (10사이클)](https://cloudjini.tistory.com/entry/AILLM-FAQ-%EC%B1%97%EB%B4%87-V2-%EC%99%84%EC%84%B1-FAISS-%EA%B8%B0%EB%B0%98-RAG%EB%A1%9C-%EC%84%B1%EB%8A%A5-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-10%EC%82%AC%EC%9D%B4%ED%81%B4) — Wed, 25 Ma
+- [[AI/LLM] RAG 체인 완성 - FAISS Retriever부터 LCEL 파이프라인까지](https://cloudjini.tistory.com/entry/AILLM-RAG-%EC%B2%B4%EC%9D%B8-%EC%99%84%EC%84%B1-FAISS-Retriever%EB%B6%80%ED%84%B0-LCEL-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%EA%B9%8C%EC%A7%80) — Wed, 25 Ma
+- [[AI/LLM] RAG 완성 - 문서 로딩 &middot; DocumentStore &middot; generate() 구현](https://cloudjini.tistory.com/entry/AILLM-RAG-%EC%99%84%EC%84%B1-%EB%AC%B8%EC%84%9C-%EB%A1%9C%EB%94%A9-%C2%B7-DocumentStore-%C2%B7-generate-%EA%B5%AC%ED%98%84) — Wed, 25 Ma
+- [[AI/LLM] 임베딩 캐시 &middot; 배치처리 &middot; 벡터 시각화 &middot; FAISS 입문 완전 정리](https://cloudjini.tistory.com/entry/AILLM-%EC%9E%84%EB%B2%A0%EB%94%A9-%EC%BA%90%EC%8B%9C-%C2%B7-%EB%B0%B0%EC%B9%98%EC%B2%98%EB%A6%AC-%C2%B7-%EB%B2%A1%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-%C2%B7-FAISS-%EC%9E%85%EB%AC%B8-%EC%99%84%EC%A0%84-%EC%A0%95%EB%A6%AC) — Tue, 24 Ma
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 최근 블로그 포스트가 자동으로 업데이트됩니다 → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
@@ -174,6 +179,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [[AI/LLM] 프롬프트 엔지니어링 완전 정복 - 구조화 프롬프트 &middot; 역할 부여 &middot; CoT 실전까지](https://cloudjini.tistory.com/entry/AILLM-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-%EA%B5%AC%EC%A1%B0%ED%99%94-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%C2%B7-%EC%97%AD%ED%95%A0-%EB%B6%80%EC%97%AC-%C2%B7-CoT-%EC%8B%A4%EC%A0%84%EA%B9%8C%EC%A7%80) — Thu, 26 Ma
+- [[AI/LLM] FAQ 챗봇 V2 완성 - FAISS 기반 RAG로 성능 업그레이드 (10사이클)](https://cloudjini.tistory.com/entry/AILLM-FAQ-%EC%B1%97%EB%B4%87-V2-%EC%99%84%EC%84%B1-FAISS-%EA%B8%B0%EB%B0%98-RAG%EB%A1%9C-%EC%84%B1%EB%8A%A5-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-10%EC%82%AC%EC%9D%B4%ED%81%B4) — Wed, 25 Ma
+- [[AI/LLM] RAG 체인 완성 - FAISS Retriever부터 LCEL 파이프라인까지](https://cloudjini.tistory.com/entry/AILLM-RAG-%EC%B2%B4%EC%9D%B8-%EC%99%84%EC%84%B1-FAISS-Retriever%EB%B6%80%ED%84%B0-LCEL-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%EA%B9%8C%EC%A7%80) — Wed, 25 Ma
+- [[AI/LLM] RAG 완성 - 문서 로딩 &middot; DocumentStore &middot; generate() 구현](https://cloudjini.tistory.com/entry/AILLM-RAG-%EC%99%84%EC%84%B1-%EB%AC%B8%EC%84%9C-%EB%A1%9C%EB%94%A9-%C2%B7-DocumentStore-%C2%B7-generate-%EA%B5%AC%ED%98%84) — Wed, 25 Ma
+- [[AI/LLM] 임베딩 캐시 &middot; 배치처리 &middot; 벡터 시각화 &middot; FAISS 입문 완전 정리](https://cloudjini.tistory.com/entry/AILLM-%EC%9E%84%EB%B2%A0%EB%94%A9-%EC%BA%90%EC%8B%9C-%C2%B7-%EB%B0%B0%EC%B9%98%EC%B2%98%EB%A6%AC-%C2%B7-%EB%B2%A1%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-%C2%B7-FAISS-%EC%9E%85%EB%AC%B8-%EC%99%84%EC%A0%84-%EC%A0%95%EB%A6%AC) — Tue, 24 Ma
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 Recent blog posts are automatically updated → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
