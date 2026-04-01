@@ -94,11 +94,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [5분 제미나이 후기: 하루 1시간 아끼는 AI 활용법](https://cloudjini.tistory.com/entry/5%EB%B6%84-%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%ED%9B%84%EA%B8%B0-%ED%95%98%EB%A3%A8-1%EC%8B%9C%EA%B0%84-%EC%95%84%EB%81%BC%EB%8A%94-AI-%ED%99%9C%EC%9A%A9%EB%B2%95) — Tue, 31 Ma
 - [[AI/LLM] 프롬프트 엔지니어링 완전 정복 4 - 메모리 관리 &middot; 히스토리 전략 &middot; 세션 기반 대화 구현](https://cloudjini.tistory.com/entry/AILLM-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-4-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%C2%B7-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%A0%84%EB%9E%B5-%C2%B7-%EC%84%B8%EC%85%98-%EA%B8%B0%EB%B0%98-%EB%8C%80%ED%99%94-%EA%B5%AC%ED%98%84) — Sun, 29 Ma
 - [[AI/LLM] 프롬프트 엔지니어링 완전 정복 3 - FewShotPromptTemplate &middot; 동적 예시 선택 &middot; CoT 심화](https://cloudjini.tistory.com/entry/AILLM-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-3-FewShotPromptTemplate-%C2%B7-%EB%8F%99%EC%A0%81-%EC%98%88%EC%8B%9C-%EC%84%A0%ED%83%9D-%C2%B7-CoT-%EC%8B%AC%ED%99%94) — Sun, 29 Ma
 - [[AI/LLM] 프롬프트 엔지니어링 완전 정복 2 - 출력 제어 &middot; 제약 조건 &middot; 컨텍스트 &middot; Few-shot 실전](https://cloudjini.tistory.com/entry/AILLM-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-2-%EC%B6%9C%EB%A0%A5-%EC%A0%9C%EC%96%B4-%C2%B7-%EC%A0%9C%EC%95%BD-%EC%A1%B0%EA%B1%B4-%C2%B7-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%C2%B7-Few-shot-%EC%8B%A4%EC%A0%84) — Sun, 29 Ma
 - [[GitHub] 프로필 꾸미기 완벽 가이드 (README + 자동화까지 한 번에)](https://cloudjini.tistory.com/entry/GitHub-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-README-%EC%9E%90%EB%8F%99%ED%99%94%EA%B9%8C%EC%A7%80-%ED%95%9C-%EB%B2%88%EC%97%90) — Fri, 27 Ma
-- [[AI/LLM] 프롬프트 엔지니어링 완전 정복 - 구조화 프롬프트 &middot; 역할 부여 &middot; CoT 실전까지](https://cloudjini.tistory.com/entry/AILLM-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-%EA%B5%AC%EC%A1%B0%ED%99%94-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%C2%B7-%EC%97%AD%ED%95%A0-%EB%B6%80%EC%97%AC-%C2%B7-CoT-%EC%8B%A4%EC%A0%84%EA%B9%8C%EC%A7%80) — Thu, 26 Ma
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 최근 블로그 포스트가 자동으로 업데이트됩니다 → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
@@ -179,11 +179,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [5분 제미나이 후기: 하루 1시간 아끼는 AI 활용법](https://cloudjini.tistory.com/entry/5%EB%B6%84-%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%ED%9B%84%EA%B8%B0-%ED%95%98%EB%A3%A8-1%EC%8B%9C%EA%B0%84-%EC%95%84%EB%81%BC%EB%8A%94-AI-%ED%99%9C%EC%9A%A9%EB%B2%95) — Tue, 31 Ma
 - [[AI/LLM] 프롬프트 엔지니어링 완전 정복 4 - 메모리 관리 &middot; 히스토리 전략 &middot; 세션 기반 대화 구현](https://cloudjini.tistory.com/entry/AILLM-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-4-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%C2%B7-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%A0%84%EB%9E%B5-%C2%B7-%EC%84%B8%EC%85%98-%EA%B8%B0%EB%B0%98-%EB%8C%80%ED%99%94-%EA%B5%AC%ED%98%84) — Sun, 29 Ma
 - [[AI/LLM] 프롬프트 엔지니어링 완전 정복 3 - FewShotPromptTemplate &middot; 동적 예시 선택 &middot; CoT 심화](https://cloudjini.tistory.com/entry/AILLM-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-3-FewShotPromptTemplate-%C2%B7-%EB%8F%99%EC%A0%81-%EC%98%88%EC%8B%9C-%EC%84%A0%ED%83%9D-%C2%B7-CoT-%EC%8B%AC%ED%99%94) — Sun, 29 Ma
 - [[AI/LLM] 프롬프트 엔지니어링 완전 정복 2 - 출력 제어 &middot; 제약 조건 &middot; 컨텍스트 &middot; Few-shot 실전](https://cloudjini.tistory.com/entry/AILLM-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-2-%EC%B6%9C%EB%A0%A5-%EC%A0%9C%EC%96%B4-%C2%B7-%EC%A0%9C%EC%95%BD-%EC%A1%B0%EA%B1%B4-%C2%B7-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%C2%B7-Few-shot-%EC%8B%A4%EC%A0%84) — Sun, 29 Ma
 - [[GitHub] 프로필 꾸미기 완벽 가이드 (README + 자동화까지 한 번에)](https://cloudjini.tistory.com/entry/GitHub-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-README-%EC%9E%90%EB%8F%99%ED%99%94%EA%B9%8C%EC%A7%80-%ED%95%9C-%EB%B2%88%EC%97%90) — Fri, 27 Ma
-- [[AI/LLM] 프롬프트 엔지니어링 완전 정복 - 구조화 프롬프트 &middot; 역할 부여 &middot; CoT 실전까지](https://cloudjini.tistory.com/entry/AILLM-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-%EA%B5%AC%EC%A1%B0%ED%99%94-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%C2%B7-%EC%97%AD%ED%95%A0-%EB%B6%80%EC%97%AC-%C2%B7-CoT-%EC%8B%A4%EC%A0%84%EA%B9%8C%EC%A7%80) — Thu, 26 Ma
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 Recent blog posts are automatically updated → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
