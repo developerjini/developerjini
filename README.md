@@ -94,11 +94,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [[도서리뷰] 클로드 올인원 책 리뷰｜비개발자도 가능한 AI 업무 자동화, 어디까지 될까?](https://cloudjini.tistory.com/entry/%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%98%AC%EC%9D%B8%EC%9B%90-%EC%B1%85-%EB%A6%AC%EB%B7%B0%EF%BD%9C%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EA%B0%80%EB%8A%A5%ED%95%9C-AI-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EB%90%A0%EA%B9%8C) — Sat, 25 Ju
 - [[AI/LLM] LangGraph ReAct 에이전트 완벽 정리 | ToolNode, MemorySaver, Human-in-the-Loop(HITL)까지](https://cloudjini.tistory.com/entry/AILLM-LangGraph-ReAct-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-ToolNode-MemorySaver-Human-in-the-LoopHITL%EA%B9%8C%EC%A7%80) — Thu, 23 Ju
 - [[AI/LLM] LangGraph Reducer 완벽 정리 | add_messages, keep_max, merge_dicts, RemoveMessage까지](https://cloudjini.tistory.com/entry/AILLM-LangGraph-Reducer-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-addmessages-keepmax-mergedicts-RemoveMessage%EA%B9%8C%EC%A7%80) — Wed, 22 Ju
 - [[AI/LLM] LangGraph 기초 완벽 정리 | StateGraph, TypedDict, Node&middot;Edge, 조건부 분기까지 한 번에](https://cloudjini.tistory.com/entry/AILLM-LangGraph-%EA%B8%B0%EC%B4%88-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-StateGraph-TypedDict-Node%C2%B7Edge-%EC%A1%B0%EA%B1%B4%EB%B6%80-%EB%B6%84%EA%B8%B0%EA%B9%8C%EC%A7%80-%ED%95%9C-%EB%B2%88%EC%97%90) — Tue, 21 Ju
 - [[AI/LLM] LangGraph 법률 AI 에이전트 완벽 구현 | StateGraph, ReAct, MemorySaver, Human-in-the-Loop(HITL)](https://cloudjini.tistory.com/entry/AILLM-LangGraph-%EB%B2%95%EB%A5%A0-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%99%84%EB%B2%BD-%EA%B5%AC%ED%98%84-StateGraph-ReAct-MemorySaver-Human-in-the-LoopHITL) — Mon, 20 Ju
-- [로지텍 폴더블 마우스 Mobi Fold 실사용 후기 (장단점, 가격, 스펙 총정리)](https://cloudjini.tistory.com/entry/%EB%A1%9C%EC%A7%80%ED%85%8D-%ED%8F%B4%EB%8D%94%EB%B8%94-%EB%A7%88%EC%9A%B0%EC%8A%A4-Mobi-Fold-%EC%8B%A4%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EA%B0%80%EA%B2%A9-%EC%8A%A4%ED%8E%99-%EC%B4%9D%EC%A0%95%EB%A6%AC) — Thu, 9 Jul
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 최근 블로그 포스트가 자동으로 업데이트됩니다 → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
@@ -179,11 +179,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [[도서리뷰] 클로드 올인원 책 리뷰｜비개발자도 가능한 AI 업무 자동화, 어디까지 될까?](https://cloudjini.tistory.com/entry/%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%98%AC%EC%9D%B8%EC%9B%90-%EC%B1%85-%EB%A6%AC%EB%B7%B0%EF%BD%9C%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EA%B0%80%EB%8A%A5%ED%95%9C-AI-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EB%90%A0%EA%B9%8C) — Sat, 25 Ju
 - [[AI/LLM] LangGraph ReAct 에이전트 완벽 정리 | ToolNode, MemorySaver, Human-in-the-Loop(HITL)까지](https://cloudjini.tistory.com/entry/AILLM-LangGraph-ReAct-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-ToolNode-MemorySaver-Human-in-the-LoopHITL%EA%B9%8C%EC%A7%80) — Thu, 23 Ju
 - [[AI/LLM] LangGraph Reducer 완벽 정리 | add_messages, keep_max, merge_dicts, RemoveMessage까지](https://cloudjini.tistory.com/entry/AILLM-LangGraph-Reducer-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-addmessages-keepmax-mergedicts-RemoveMessage%EA%B9%8C%EC%A7%80) — Wed, 22 Ju
 - [[AI/LLM] LangGraph 기초 완벽 정리 | StateGraph, TypedDict, Node&middot;Edge, 조건부 분기까지 한 번에](https://cloudjini.tistory.com/entry/AILLM-LangGraph-%EA%B8%B0%EC%B4%88-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-StateGraph-TypedDict-Node%C2%B7Edge-%EC%A1%B0%EA%B1%B4%EB%B6%80-%EB%B6%84%EA%B8%B0%EA%B9%8C%EC%A7%80-%ED%95%9C-%EB%B2%88%EC%97%90) — Tue, 21 Ju
 - [[AI/LLM] LangGraph 법률 AI 에이전트 완벽 구현 | StateGraph, ReAct, MemorySaver, Human-in-the-Loop(HITL)](https://cloudjini.tistory.com/entry/AILLM-LangGraph-%EB%B2%95%EB%A5%A0-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%99%84%EB%B2%BD-%EA%B5%AC%ED%98%84-StateGraph-ReAct-MemorySaver-Human-in-the-LoopHITL) — Mon, 20 Ju
-- [로지텍 폴더블 마우스 Mobi Fold 실사용 후기 (장단점, 가격, 스펙 총정리)](https://cloudjini.tistory.com/entry/%EB%A1%9C%EC%A7%80%ED%85%8D-%ED%8F%B4%EB%8D%94%EB%B8%94-%EB%A7%88%EC%9A%B0%EC%8A%A4-Mobi-Fold-%EC%8B%A4%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EA%B0%80%EA%B2%A9-%EC%8A%A4%ED%8E%99-%EC%B4%9D%EC%A0%95%EB%A6%AC) — Thu, 9 Jul
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 Recent blog posts are automatically updated → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
