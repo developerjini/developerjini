@@ -94,11 +94,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [[AI/LLM] Self RAG 구현하기 (1) | 관련성 평가와 쿼리 재작성, 환각 평가까지](https://cloudjini.tistory.com/entry/AILLM-Self-RAG-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-1-%EA%B4%80%EB%A0%A8%EC%84%B1-%ED%8F%89%EA%B0%80%EC%99%80-%EC%BF%BC%EB%A6%AC-%EC%9E%AC%EC%9E%91%EC%84%B1-%ED%99%98%EA%B0%81-%ED%8F%89%EA%B0%80%EA%B9%8C%EC%A7%80) — Thu, 30 Ju
 - [Adaptive RAG 구현하기 (2) | LangGraph 4방향 라우팅과 Multi-hop 완성](https://cloudjini.tistory.com/entry/Adaptive-RAG-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-2-LangGraph-4%EB%B0%A9%ED%96%A5-%EB%9D%BC%EC%9A%B0%ED%8C%85%EA%B3%BC-Multi-hop-%EC%99%84%EC%84%B1) — Wed, 29 Ju
 - [[AI/LLM] Adaptive RAG 구현하기: Pydantic으로 LLM 출력 구조화하고 LangGraph 라우팅까지](https://cloudjini.tistory.com/entry/AILLM-Adaptive-RAG-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Pydantic%EC%9C%BC%EB%A1%9C-LLM-%EC%B6%9C%EB%A0%A5-%EA%B5%AC%EC%A1%B0%ED%99%94%ED%95%98%EA%B3%A0-LangGraph-%EB%9D%BC%EC%9A%B0%ED%8C%85%EA%B9%8C%EC%A7%80) — Tue, 28 Ju
 - [[도서리뷰] 클로드 올인원 책 리뷰｜비개발자도 가능한 AI 업무 자동화, 어디까지 될까?](https://cloudjini.tistory.com/entry/%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%98%AC%EC%9D%B8%EC%9B%90-%EC%B1%85-%EB%A6%AC%EB%B7%B0%EF%BD%9C%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EA%B0%80%EB%8A%A5%ED%95%9C-AI-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EB%90%A0%EA%B9%8C) — Sat, 25 Ju
 - [[AI/LLM] LangGraph ReAct 에이전트 완벽 정리 | ToolNode, MemorySaver, Human-in-the-Loop(HITL)까지](https://cloudjini.tistory.com/entry/AILLM-LangGraph-ReAct-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-ToolNode-MemorySaver-Human-in-the-LoopHITL%EA%B9%8C%EC%A7%80) — Thu, 23 Ju
-- [[AI/LLM] LangGraph Reducer 완벽 정리 | add_messages, keep_max, merge_dicts, RemoveMessage까지](https://cloudjini.tistory.com/entry/AILLM-LangGraph-Reducer-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-addmessages-keepmax-mergedicts-RemoveMessage%EA%B9%8C%EC%A7%80) — Wed, 22 Ju
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 최근 블로그 포스트가 자동으로 업데이트됩니다 → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
@@ -179,11 +179,11 @@ $ cat about.txt
 ## `$ cat recent_posts.md`
 
 <!-- BLOG-POST-LIST:START -->
+- [[AI/LLM] Self RAG 구현하기 (1) | 관련성 평가와 쿼리 재작성, 환각 평가까지](https://cloudjini.tistory.com/entry/AILLM-Self-RAG-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-1-%EA%B4%80%EB%A0%A8%EC%84%B1-%ED%8F%89%EA%B0%80%EC%99%80-%EC%BF%BC%EB%A6%AC-%EC%9E%AC%EC%9E%91%EC%84%B1-%ED%99%98%EA%B0%81-%ED%8F%89%EA%B0%80%EA%B9%8C%EC%A7%80) — Thu, 30 Ju
 - [Adaptive RAG 구현하기 (2) | LangGraph 4방향 라우팅과 Multi-hop 완성](https://cloudjini.tistory.com/entry/Adaptive-RAG-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-2-LangGraph-4%EB%B0%A9%ED%96%A5-%EB%9D%BC%EC%9A%B0%ED%8C%85%EA%B3%BC-Multi-hop-%EC%99%84%EC%84%B1) — Wed, 29 Ju
 - [[AI/LLM] Adaptive RAG 구현하기: Pydantic으로 LLM 출력 구조화하고 LangGraph 라우팅까지](https://cloudjini.tistory.com/entry/AILLM-Adaptive-RAG-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Pydantic%EC%9C%BC%EB%A1%9C-LLM-%EC%B6%9C%EB%A0%A5-%EA%B5%AC%EC%A1%B0%ED%99%94%ED%95%98%EA%B3%A0-LangGraph-%EB%9D%BC%EC%9A%B0%ED%8C%85%EA%B9%8C%EC%A7%80) — Tue, 28 Ju
 - [[도서리뷰] 클로드 올인원 책 리뷰｜비개발자도 가능한 AI 업무 자동화, 어디까지 될까?](https://cloudjini.tistory.com/entry/%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%98%AC%EC%9D%B8%EC%9B%90-%EC%B1%85-%EB%A6%AC%EB%B7%B0%EF%BD%9C%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EA%B0%80%EB%8A%A5%ED%95%9C-AI-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EB%90%A0%EA%B9%8C) — Sat, 25 Ju
 - [[AI/LLM] LangGraph ReAct 에이전트 완벽 정리 | ToolNode, MemorySaver, Human-in-the-Loop(HITL)까지](https://cloudjini.tistory.com/entry/AILLM-LangGraph-ReAct-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-ToolNode-MemorySaver-Human-in-the-LoopHITL%EA%B9%8C%EC%A7%80) — Thu, 23 Ju
-- [[AI/LLM] LangGraph Reducer 완벽 정리 | add_messages, keep_max, merge_dicts, RemoveMessage까지](https://cloudjini.tistory.com/entry/AILLM-LangGraph-Reducer-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-addmessages-keepmax-mergedicts-RemoveMessage%EA%B9%8C%EC%A7%80) — Wed, 22 Ju
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 Recent blog posts are automatically updated → [cloudjini.tistory.com](https://cloudjini.tistory.com/)
